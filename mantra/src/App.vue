@@ -222,6 +222,7 @@
 import MHeader from '@/components/MHeader.vue';
 import MFooter from '@/components/MFooter.vue';
 import Intro from '@/components/Intro.vue';
+import Demos from '@/components/Demos.vue';
 import Komponents from '@/components/Komponents.vue';
 import InnerPages from '@/components/InnerPages.vue';
 import MobileInterface from '@/components/MobileInterface.vue';
@@ -230,6 +231,7 @@ import Features from '@/components/Features.vue';
 
 export default {
   components: {
+    Demos,
     MHeader,
     MFooter,
     Intro,
