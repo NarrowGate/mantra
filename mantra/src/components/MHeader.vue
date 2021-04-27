@@ -1,8 +1,8 @@
 <template>
   <header class="header navbar navbar-expand-lg navbar-light bg-light navbar-sticky" data-scroll-header data-fixed-element>
     <div class="container px-0 px-xl-3">
-      <button class="navbar-toggler ms-n2 me-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#primaryMenu"><span class="navbar-toggler-icon"></span></button><a class="navbar-brand flex-shrink-0 order-lg-1 mx-auto ms-lg-0 pe-lg-2 me-lg-4" href="index.html"><img class="d-none d-lg-block" src="img/logo/logo-dark.png" alt="Around" width="153"><img class="d-lg-none" src="img/logo/logo-icon.png" alt="Around" width="58"></a>
-      <div class="d-flex align-items-center order-lg-3 ms-lg-auto"><a class="nav-link-style fs-sm text-nowrap" href="#modal-signin" data-bs-toggle="modal" data-view="#modal-signin-view"><i class="ai-user fs-xl me-2 align-middle"></i>Sign in</a><a class="btn btn-primary ms-grid-gutter d-none d-lg-inline-block" href="#modal-signin" data-bs-toggle="modal" data-view="#modal-signup-view">Sign up</a></div>
+      <button class="navbar-toggler ms-n2 me-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#primaryMenu"><span class="navbar-toggler-icon"></span></button><a class="navbar-brand flex-shrink-0 order-lg-1 mx-auto ms-lg-0 pe-lg-2 me-lg-4" href="index.html"><img class="d-none d-lg-block" src="img/logo/logo-dark.png" alt="Mantra Driving" width="153"><img class="d-lg-none" src="img/logo/logo-icon.png" alt="Around" width="58"></a>
+      <!-- <div class="d-flex align-items-center order-lg-3 ms-lg-auto"><a class="nav-link-style fs-sm text-nowrap" href="#modal-signin" data-bs-toggle="modal" data-view="#modal-signin-view"><i class="ai-user fs-xl me-2 align-middle"></i>Sign in</a><a class="btn btn-primary ms-grid-gutter d-none d-lg-inline-block" href="#modal-signin" data-bs-toggle="modal" data-view="#modal-signup-view">Sign up</a></div> -->
       <div class="offcanvas offcanvas-collapse order-lg-2" id="primaryMenu">
         <div class="offcanvas-cap navbar-shadow">
           <h5 class="mt-1 mb-0">Menu</h5>
@@ -10,7 +10,7 @@
         </div>
         <div class="offcanvas-body">
           <!-- Menu-->
-          <ul class="navbar-nav">
+          <!-- <ul class="navbar-nav">
             <li class="nav-item dropdown dropdown-mega"><a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Demos</a>
               <div class="dropdown-menu"><a class="dropdown-column dropdown-column-img bg-secondary" href="index.html" style="background-image: url(img/demo/menu-banner.jpg);"></a>
                 <div class="dropdown-column"><a class="dropdown-item" href="index.html">Web Template Presentation</a><a class="dropdown-item" href="demo-business-consulting.html">Business Consulting</a><a class="dropdown-item" href="demo-shop-homepage.html">Shop Homepage</a><a class="dropdown-item" href="demo-booking-directory.html">Booking / Directory</a><a class="dropdown-item" href="demo-creative-agency.html">Creative Agency</a><a class="dropdown-item" href="demo-web-studio.html">Web Studio</a><a class="dropdown-item" href="demo-product-software.html">Product Landing - Software</a></div>
@@ -113,7 +113,7 @@
                     </div></a></li>
               </ul>
             </li>
-          </ul>
+          </ul> -->
         </div>
       </div>
     </div>

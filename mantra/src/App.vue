@@ -209,13 +209,13 @@
               <div class="d-none d-lg-block position-absolute bg-no-repeat bg-position-center h-100" style="top: 0; left: -45px; width: 646px; background-image: url(img/pages/about/bg-shape.svg);"></div>
               <div class="row g-0 mx-n2 pt-lg-4">
                 <div class="col-sm-4 px-2 mb-3"><a class="card h-100 card-body py-5 justify-content-center border-0 shadow-lg text-center" href="#"><i class="ai-zap text-primary h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Boost</h3></a></div>
+                    <h3 class="h5 mb-0">$199</h3></a></div>
                 <div class="col-sm-4 px-2 mb-3"><a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#"><i class="ai-pie-chart text-danger h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Analize</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-refresh-ccw text-info h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Automate</h3></a></div>
+                    <h3 class="h5 mb-0">$61</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-refresh-ccw text-info h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Cashback or</h3></a></div>
                 <div class="col-sm-4 px-2 mb-3"><a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#"><i class="ai-folder-plus text-success h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Create</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-share text-warning h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Share</h3></a></div>
+                    <h3 class="h5 mb-0">Share</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-share text-warning h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Rebook</h3></a></div>
               </div>
             </div>
           </div>
@@ -225,22 +225,22 @@
       <section class="bg-secondary py-5 mt-n4 mb-6 mt-lg-0 mb-lg-7">
         <div class="container py-3">
           <div class="row">
-            <div class="col-md-3 col-sm-6 text-center py-3">
-              <h3 class="display-4">15</h3>
+            <div class="col-md-4 col-sm-6 text-center py-4">
+              <h3 class="display-4">10+</h3>
               <p class="text-muted mb-0">Years of experience</p>
             </div>
-            <div class="col-md-3 col-sm-6 text-center py-3">
-              <h3 class="display-4">2k+</h3>
-              <p class="text-muted mb-0">Employees worldwide</p>
+            <div class="col-md-4 col-sm-6 text-center py-4">
+              <h3 class="display-4">2500+</h3>
+              <p class="text-muted mb-0">Tests</p>
             </div>
-            <div class="col-md-3 col-sm-6 text-center py-3">
-              <h3 class="display-4">90%</h3>
-              <p class="text-muted mb-0">Positive feedback</p>
+            <div class="col-md-4 col-sm-6 text-center py-4">
+              <h3 class="display-4">100%</h3>
+              <p class="text-muted mb-0">Pass Rate</p>
             </div>
-            <div class="col-md-3 col-sm-6 text-center py-3">
+            <!-- <div class="col-md-3 col-sm-6 text-center py-3">
               <h3 class="display-4">100</h3>
               <p class="text-muted mb-0">Successfully completed projects</p>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
@@ -334,54 +334,89 @@
       <section class="container pb-5 pb-lg-6">
         <h2 class="mb-5 text-center">We work with world’s top companies</h2>
         <div class="row">
-          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
+            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
-                <div class="swap-image"><img class="swap-to" src="img/shop/brands/01_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/01_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
-          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+                Logan
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
+            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+              <div class="card-body px-1 py-0 text-center">
+                Greenslopes
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
+            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+              <div class="card-body px-1 py-0 text-center">
+                Toowong
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
+            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+              <div class="card-body px-1 py-0 text-center">
+                Sherwood
+              </div>
+            </a>
+          </div>                              
+          <!-- <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/02_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/02_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/03_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/03_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/04_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/04_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/05_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/05_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/06_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/06_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/07_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/07_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/08_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/08_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/09_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/09_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/10_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/10_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/11_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/11_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
                 <div class="swap-image"><img class="swap-to" src="img/shop/brands/12_color.png" alt="Brand logo" width="150"><img class="swap-from" src="img/shop/brands/12_gray.png" alt="Brand logo" width="150"></div>
-              </div></a></div>
+              </div></a>
+          </div> -->
         </div>
       </section>
     </main>
@@ -432,6 +467,16 @@ export default {
 };
 </script>
 <style lang="scss">
+$mantraYellow: #f7e245;
+$mantraBlack: #000000;
+
+body {
+  background-color: $mantraBlack;
+  .callout {
+    border-color: $mantraYellow;
+  }
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
