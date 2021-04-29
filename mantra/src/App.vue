@@ -202,20 +202,50 @@
             <h2 class="h3">How we help other companies to grow.</h2>
             <div class="py-4">
               <p class="callout">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-            </div><a class="btn-video btn-video-primary btn-video-sm me-3" href="https://www.youtube.com/watch?v=hTu0a4o97dU"></a><span class="fs-sm text-muted">Get to know us better</span>
+            </div>
+              <!-- <a class="btn-video btn-video-primary btn-video-sm me-3" href="https://www.youtube.com/watch?v=hTu0a4o97dU"></a>
+              <span class="fs-sm text-muted">Get to know us better</span> -->
           </div>
           <div class="col-xl-6 col-lg-7 offset-xl-1 position-relative">
             <div class="py-5" style="min-height: 543px;">
               <div class="d-none d-lg-block position-absolute bg-no-repeat bg-position-center h-100" style="top: 0; left: -45px; width: 646px; background-image: url(img/pages/about/bg-shape.svg);"></div>
               <div class="row g-0 mx-n2 pt-lg-4">
-                <div class="col-sm-4 px-2 mb-3"><a class="card h-100 card-body py-5 justify-content-center border-0 shadow-lg text-center" href="#"><i class="ai-zap text-primary h1 mb-3"></i>
-                    <h3 class="h5 mb-0">$199</h3></a></div>
-                <div class="col-sm-4 px-2 mb-3"><a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#"><i class="ai-pie-chart text-danger h1 mb-3"></i>
-                    <h3 class="h5 mb-0">$61</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-refresh-ccw text-info h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Cashback or</h3></a></div>
-                <div class="col-sm-4 px-2 mb-3"><a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#"><i class="ai-folder-plus text-success h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Share</h3></a><a class="card card-body py-5 border-0 shadow-lg text-center" href="#"><i class="ai-share text-warning h1 mb-3"></i>
-                    <h3 class="h5 mb-0">Rebook</h3></a></div>
+                <div class="col-sm-4 px-2 mb-3">
+                  <a class="card h-100 card-body py-5 justify-content-center border-0 shadow-lg text-center" href="#">
+                    <i class="ai-zap text-primary h1 mb-3"></i>
+                    <h3 class="h5 mb-0">$199</h3>
+                  </a>
+                </div>
+                <div class="col-sm-8 px-2 mb-3">
+                  <a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#">
+                    <i class="ai-pie-chart text-danger h1 mb-3"></i>
+                    <h3 class="h5 mb-0">$61 - Cashback or Refund</h3>
+                  </a>
+                  <a class="card card-body py-5 border-0 shadow-lg text-center" href="#">
+                    <i class="ai-refresh-ccw text-info h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Contact number</h3>
+                  </a>
+                </div>                
+                <!-- <div class="col-sm-4 px-2 mb-3">
+                  <a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#">
+                    <i class="ai-pie-chart text-danger h1 mb-3"></i>
+                    <h3 class="h5 mb-0">$61</h3>
+                  </a>
+                  <a class="card card-body py-5 border-0 shadow-lg text-center" href="#">
+                    <i class="ai-refresh-ccw text-info h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Cashback or</h3>
+                  </a>
+                </div>
+                <div class="col-sm-4 px-2 mb-3">
+                  <a class="card card-body py-5 border-0 shadow-lg text-center mb-3" href="#">
+                    <i class="ai-folder-plus text-success h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Share</h3>
+                  </a>
+                  <a class="card card-body py-5 border-0 shadow-lg text-center" href="#">
+                    <i class="ai-share text-warning h1 mb-3"></i>
+                    <h3 class="h5 mb-0">Rebook</h3>
+                  </a>
+                </div> -->
               </div>
             </div>
           </div>
@@ -244,95 +274,9 @@
           </div>
         </div>
       </section>
-      <!-- Team-->
-      <section class="container mb-5 pb-3 pb-lg-0 mb-lg-7">
-        <h2 class="pb-4 mb-4 text-center">People behind our success</h2>
-        <div class="row mb-3">
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:sarah.cole@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/01.jpg" alt="Sarah Cole"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Sarah Cole</h3>
-                <p class="fs-xs text-body mb-0">CEO, Co-Founder</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:charlie.welch@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/02.jpg" alt="Charlie Welch"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Charlie Welch</h3>
-                <p class="fs-xs text-body mb-0">CTO, Co-Founder</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:emma.brown@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/03.jpg" alt="Emma Brown"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Emma Brown</h3>
-                <p class="fs-xs text-body mb-0">Director of Marketing</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:rosalie.lyons@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/04.jpg" alt="Rosalie Lyons"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Rosalie Lyons</h3>
-                <p class="fs-xs text-body mb-0">Financial Director</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:jane.tanaka@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/05.jpg" alt="Jane Tanaka"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Jane Tanaka</h3>
-                <p class="fs-xs text-body mb-0">Lead PR Strategist</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:sanomi.smith@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/06.jpg" alt="Sanomi Smith"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Sanomi Smith</h3>
-                <p class="fs-xs text-body mb-0">Director of Human Resources</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:olivia.jones@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/07.jpg" alt="Olivia Jones"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Olivia Jones</h3>
-                <p class="fs-xs text-body mb-0">Content Manager</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
-            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:richard.davis@example.com"><i class="ai-mail"></i></a>
-              <div class="card-img-top card-img-gradient"><img src="img/team/08.jpg" alt="Richard Davis"></div>
-              <div class="card-body text-center">
-                <h3 class="h6 card-title mb-2">Richard Davis</h3>
-                <p class="fs-xs text-body mb-0">Lead Accountant</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card card-body py-5 text-center text-md-end">
-          <div class="d-md-flex justify-content-center align-items-center">
-            <div class="mb-4 mb-md-0 me-md-5 me-lg-6 me-xl-7">
-              <h3>Want to be part of our team? We are hiring</h3>
-              <p class="text-muted mb-0">Check our current opennings and submit your application</p>
-            </div><a class="btn btn-gradient" href="#">Submit your application</a>
-          </div>
-        </div>
-      </section>
-      <!-- Clients-->
+      <!-- Regions-->
       <section class="container pb-5 pb-lg-6">
-        <h2 class="mb-5 text-center">We work with world’s top companies</h2>
+        <h2 class="mb-5 text-center">Regions we cover</h2>
         <div class="row">
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
             <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
@@ -418,6 +362,56 @@
               </div></a>
           </div> -->
         </div>
+      </section>      
+      <!-- Team-->
+      <section class="container mb-5 pb-3 pb-lg-0 mb-lg-7">
+        <h2 class="pb-4 mb-4 text-center">People behind our success</h2>
+        <div class="row mb-3">
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
+            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:sarah.cole@example.com"><i class="ai-mail"></i></a>
+              <br>
+              <div class="card-body text-center">
+                <h3 class="h6 card-title mb-2">Aby Cherian</h3>
+                <p class="fs-xs text-body mb-0">CEO, Co-Founder</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
+            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:charlie.welch@example.com"><i class="ai-mail"></i></a>
+              <br>
+              <div class="card-body text-center">
+                <h3 class="h6 card-title mb-2">Milan</h3>
+                <p class="fs-xs text-body mb-0">CTO, Co-Founder</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
+            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:emma.brown@example.com"><i class="ai-mail"></i></a>
+              <br>
+              <div class="card-body text-center">
+                <h3 class="h6 card-title mb-2">Manasa</h3>
+                <p class="fs-xs text-body mb-0">Director of Marketing</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-grid-gutter">
+            <div class="card card-curved-body card-hover border-0 shadow mx-auto" style="max-width: 21rem;"><a class="card-floating-icon" href="mailto:rosalie.lyons@example.com"><i class="ai-mail"></i></a>
+              <br>
+              <div class="card-body text-center">
+                <h3 class="h6 card-title mb-2">Susan</h3>
+                <p class="fs-xs text-body mb-0">Financial Director</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="card card-body py-5 text-center text-md-end">
+          <div class="d-md-flex justify-content-center align-items-center">
+            <div class="mb-4 mb-md-0 me-md-5 me-lg-6 me-xl-7">
+              <h3>Want to be part of our team? We are hiring</h3>
+              <p class="text-muted mb-0">Check our current opennings and submit your application</p>
+            </div><a class="btn btn-gradient" href="#">Submit your application</a>
+          </div>
+        </div> -->
       </section>
     </main>
     <m-footer/>
@@ -467,11 +461,19 @@ export default {
 };
 </script>
 <style lang="scss">
-$mantraYellow: #f7e245;
+$mantraYellow: #FFCC00;
 $mantraBlack: #000000;
+$mantraPurple: #756df4;
+$mantraLightPurple: #c5c2fb;
 
 body {
   background-color: $mantraBlack;
+  h1 {
+    color: $mantraYellow;
+  }
+  h2 {
+    color: $mantraPurple !important;
+  }  
   .callout {
     border-color: $mantraYellow;
   }
@@ -482,7 +484,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: $mantraLightPurple;
 }
 
 #nav {
