@@ -279,32 +279,36 @@
         <h2 class="mb-5 text-center">Regions we cover</h2>
         <div class="row">
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
-            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
-              <div class="card-body px-1 py-0 text-center">
-                Logan
+            <!-- <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
+              </a> -->
+              <div class="mantra-area">
+                <h3>
+                  Logan
+                </h3>
               </div>
-            </a>
+              <!-- <div class="card-body px-1 py-0 text-center"></div> -->
+            
           </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
-            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
-              <div class="card-body px-1 py-0 text-center">
-                Greenslopes
+              <div class="mantra-area">
+                <h3>
+                  Greenslopes
+                </h3>
               </div>
-            </a>
           </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
-            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
-              <div class="card-body px-1 py-0 text-center">
-                Toowong
+              <div class="mantra-area">
+                <h3>
+                  Toowong
+                </h3>
               </div>
-            </a>
           </div>
           <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter">
-            <a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
-              <div class="card-body px-1 py-0 text-center">
-                Sherwood
+              <div class="mantra-area">
+                <h3>
+                  Sherwood
+                </h3>
               </div>
-            </a>
           </div>                              
           <!-- <div class="col-md-3 col-sm-4 col-6 mb-grid-gutter"><a class="card border-0 shadow card-hover py-3 py-sm-4" href="#">
               <div class="card-body px-1 py-0 text-center">
@@ -474,6 +478,17 @@ body {
   h2 {
     color: $mantraPurple !important;
   }  
+  .mantra-area {
+    background: url("./assets/images/map.jpg") no-repeat;
+    border-radius: 10px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h3 {
+      font-size: 33px;
+    }
+  }
   .callout {
     border-color: $mantraYellow;
   }
